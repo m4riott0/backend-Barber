@@ -49,4 +49,4 @@ O servidor estará rodando em `http://localhost:3000`
 Este projeto está licenciado sob a MIT License
 
 ---
-Feito com ❤️ por m4riott0 (https://github.com/m4riott0)
+Feito por m4riott0 (https://github.com/m4riott0)
